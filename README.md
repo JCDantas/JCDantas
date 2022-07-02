@@ -14,7 +14,7 @@
   ##
 
 <p>Trabalho como instrutor na HcodeLab</p>
-<p>Estou sempre pronto para entrar em novos projetos com qualidade do front-end e back-end.</p>
+<p>Estou sempre pronto para entrar em novos projetos e aprender novas tecnologias.</p>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="César-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
