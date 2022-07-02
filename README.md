@@ -43,7 +43,7 @@ Estou sempre pronto para entrar em novos projetos e aprender novas tecnologias.<
 
 </div>
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JCDantas/a30ade53919c2128d48c691dadc3686c/raw/ed755adca4ca3ce91452d1b65795e08f658440ff/github.card.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JCDantas/a30ade53919c2128d48c691dadc3686c/raw/d2a1801834628df63555de66ae9a7e968933dd7a/github.card.svg"/>
 
    ##
   
